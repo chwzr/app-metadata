@@ -1,14 +1,14 @@
 {
   "name": "app-metadata",
-  "version": "0.0.6",
-  "description": "Manage page meta tags for SEO",
+  "version": "0.1.0",
+  "description": "Manage page meta tags for SEO - Polymer 2 Version",
   "authors": [
-    "Simon Green <simon@captaincodeman.com>"
+    "Simon Green / Felix Koppe <simon@captaincodeman.com>"
   ],
   "main": "app-metadata.html",
   "repository": {
     "type": "git",
-    "url": "git://github.com/github.com/CaptainCodeman/app-metadata.git"
+    "url": "git://github.com/github.com/chwzr/app-metadata.git"
   },
   "homepage": "http://captaincodeman.github.io/app-metadata/",
   "keywords": [
@@ -20,13 +20,13 @@
     "seo"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.4.0"
+   "polymer": "Polymer/polymer#^2.0.0-rc.3"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
     "web-component-tester": "^4.0.0",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0-rc.7"
   },
   "license": "MIT"
 }
